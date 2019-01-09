@@ -1,4 +1,4 @@
-# RXJs-Demo
+# RXJs-Boiler
 Boilerplate for building RxJS applications in a Webpack environment
 
 Note: The video explaining RxJS and making use of this repo is located here: 
