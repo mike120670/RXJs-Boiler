@@ -1,0 +1,16 @@
+body {
+    font-family: 'Arial';
+    background: lightgray;
+}
+
+ul {
+    list-style-type: none;
+    padding: 20px;
+}
+
+li {
+    padding: 15px;
+    background: lightblue;
+    margin-bottom: 10px;
+    border: 1px solid black;
+}
