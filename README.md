@@ -1,7 +1,9 @@
 # RXJs-Demo
 Boilerplate for building RxJS applications in a Webpack environment
 
-Note: The video explaining RxJS and making use of this repo is located here: https://www.youtube.com/watch?v=WhOAVgsCfuo
+Note: The video explaining RxJS and making use of this repo is located here: 
+
+https://www.youtube.com/watch?v=WhOAVgsCfuo
 
 Version
 1.0.0
